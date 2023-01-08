@@ -1,6 +1,6 @@
 # Simple async.series demo
 
-This project simply shows how to run two functions in series =.
+This project simply shows how to run two functions in series.
 
 ## Installation
 
